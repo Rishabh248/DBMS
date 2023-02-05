@@ -26,4 +26,4 @@ DELETE FROM employee WHERE emp_address = 'mangalore';
 
 RENAME employee TO employee1;
 
-DROP employee1;
+DROP TABLE employee1;
